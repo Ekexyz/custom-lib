@@ -1,0 +1,1 @@
+git+https://${GITHUB_USER}:${GITHUB_TOKEN}@github.com/Ekexyz/custom-lib.git
