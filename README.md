@@ -1,5 +1,3 @@
-# crt-git-lib-test
-
 Test importing Git repo as a pip package into CRT
 
 --------
