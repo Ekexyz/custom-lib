@@ -12,3 +12,6 @@ https://docs.gitlab.com/ee/user/project/deploy_tokens/#creating-a-deploy-token
 
 BitBucket app password
 https://support.atlassian.com/bitbucket-cloud/docs/app-passwords/
+
+Azure Artifacts
+https://learn.microsoft.com/en-us/azure/devops/artifacts/quickstarts/python-packages?view=azure-devops&tabs=Windows#connect-to-your-feed
